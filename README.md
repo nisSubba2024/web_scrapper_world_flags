@@ -14,7 +14,7 @@ This program scrapes all the world flags from [Worldometers Flags of the World](
 - Python 3.x
 - `requests` library
 - `BeautifulSoup` from `bs4`
-- `json` (comes pre-installed with Python)
+- `json`
 
 ## Installation
 
